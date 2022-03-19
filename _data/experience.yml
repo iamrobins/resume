@@ -1,0 +1,12 @@
+# Jobs
+# Software Developer
+- company: Disecto - Paradigm Shifting Data Security
+  position: Software Developer
+  duration: Dec, 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Built highly secured APIs in TypeScript & Node.js for Careers Portal with Two Factor Authentication <strong>(2FA)</strong> proxied behind <strong>OpenVPN</strong> for internal use remotely.</li><li>Increased protection by <strong>99%</strong> from reverse engineering attempts by <strong>Obfuscating</strong> Python source code using Pyarmor and compiled it to native binaries with Cython.</li><li>Containerized a massive unstructured data search application for <strong>development</strong> and <strong>production</strong> environments with various containers including Postgres, Nginx and Elastic Search.</li></ul>
+
+# Frontend Developer Intern Argonaut
+- company: Argonaut - Automate Cloud Deployments
+  position: Frontend Developer Intern
+  duration:  Mar, 2021 &mdash; Apr, 2021
+  summary: <ul class="resume-item-list"><li>Built various reusable components like <strong>Web Based Terminal</strong>, Tables and more for Reactjs and Nextjs applications using TypeScript.</li></ul>
