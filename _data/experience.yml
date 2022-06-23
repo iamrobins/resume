@@ -2,17 +2,17 @@
 - company: Disecto - Paradigm Shifting Data Security
   position: Software Development Engineer
   duration: Apr, 2022 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Took complete engineering ownership to design, develop and lead the team of 6 interns to build out a new product line <strong>Data Loss Prevention Application (DLP)</strong> from scratch.</li><li>Developed Nodes for Windows using Python and Win32 API to monitor File System Activity and log it realtime to the server using WebSocket API.</li><li>Added feature to remotely create, read, update and delete files on any connected Windows node in realtime from the Web App.</li><li>Added feature to view the Windows Node File System Tree on the Web App.</li><li>Added 2FA for secure user authentication system.</li><li>Tech Stack - React, Django, WebSocket API, PostgreSQL, RabbitMQ, Nginx, Docker, Win32 API</li></ul>
+  summary: <ul class="resume-item-list"><li>Took complete engineering ownership to design, develop and lead the team of 6 interns to build out a new product line <strong>Data Loss Prevention Application (DLP)</strong> from scratch.</li><li>Developed Nodes for Windows using Python and Win32 API to monitor File System Activity and log it realtime to the server using WebSocket API.</li><li>Added feature to remotely create, read, update and delete files on any connected Windows node in realtime from the Web App.</li><li>Added feature to view the Windows Node File System Tree on the Web App.</li><li>Added 2FA for secure user authentication system.</li><li><strong>Tech Stack</strong> - React, Django, WebSocket API, PostgreSQL, RabbitMQ, Nginx, Docker, Win32 API</li></ul>
 
 
 # Software Developer
 - company: Disecto - Paradigm Shifting Data Security
   position: Software Developer Intern
   duration: Dec, 2021 &mdash; Mar, 2022
-  summary: <ul class="resume-item-list"><li>Built highly secured APIs in TypeScript & Node.js for Careers Portal with Two Factor Authentication <strong>(2FA)</strong> proxied behind <strong>OpenVPN</strong> for internal use remotely.</li><li>Increased protection by <strong>99%</strong> from reverse engineering attempts by <strong>Obfuscating</strong> Python source code using Pyarmor and compiled it to native binaries with Cython.</li><li>Containerized a massive unstructured data search application for <strong>development</strong> and <strong>production</strong> environments with various containers including Postgres, Nginx and Elastic Search.</li><li>Tech Stack - React, Django, PostgreSQL, Docker</li></ul>
+  summary: <ul class="resume-item-list"><li>Built highly secured APIs in TypeScript & Node.js for Careers Portal with Two Factor Authentication <strong>(2FA)</strong> proxied behind <strong>OpenVPN</strong> for internal use remotely.</li><li>Increased protection by <strong>99%</strong> from reverse engineering attempts by <strong>Obfuscating</strong> Python source code using Pyarmor and compiled it to native binaries with Cython.</li><li>Containerized a massive unstructured data search application for <strong>development</strong> and <strong>production</strong> environments with various containers including Postgres, Nginx and Elastic Search.</li><li><strong>Tech Stack</strong> - React, Django, PostgreSQL, Docker</li></ul>
 
 # Frontend Developer Intern Argonaut
 - company: Argonaut - Automate Cloud Deployments
   position: Frontend Developer Intern
   duration:  Mar, 2021 &mdash; Apr, 2021
-  summary: <ul class="resume-item-list"><li>Built various reusable components like <strong>Web Based Terminal</strong>, Tables and more for Reactjs and Nextjs applications using TypeScript.</li><li>Tech Stack - React, Next.js, GraphQL, MongoDB, Docker</li></ul>
+  summary: <ul class="resume-item-list"><li>Built various reusable components like <strong>Web Based Terminal</strong>, Tables and more for Reactjs and Nextjs applications using TypeScript.</li><li><strong>Tech Stack</strong> - React, Next.js, GraphQL, MongoDB, Docker</li></ul>
