@@ -69,7 +69,7 @@ const MainScreen = () => {
           <Avatar
             _groupHover={{ width: '5rem', height: '5rem' }}
             size="xl"
-            src="https://robin.asia/images/avatar.jpeg"
+            src="/profile.jpeg"
           />
         </Box>
       </motion.div>

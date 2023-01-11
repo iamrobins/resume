@@ -66,7 +66,7 @@ const productsList = [
     github: "https://github.com/iamrobins/lyricly",
     url: "https://twitter.com/i/status/1342478913159630850",
     image:  
-      'https://i.postimg.cc/Zq8TX9hc/3.gif'
+      '/lyricly.gif'
   },
   {
     id: 4,
