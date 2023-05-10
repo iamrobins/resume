@@ -40,7 +40,7 @@ const productsList = [
     github: "https://github.com/dogefiles",
     url: "https://dogefiles.io",
     image:
-      'https://www.dogefiles.io/_next/image?url=%2Fimages%2Fdashboard_dark.png&w=2048&q=75'
+      'https://www.dogefiles.io/static/images/dashboard_light.webp'
   },
   {
     id: 2,
@@ -57,7 +57,7 @@ const productsList = [
   },
   {
     id: 3,
-    title: 'GTA San Andreas Multiplayer Flare Gun Mod',
+    title: 'Lyricly - Identify Songs With Lyrics',
     // location: 'New York',
     detail: ['HTML', 'CSS', 'JavaScript', 'Express.js', 'Node.js'],
     description: 'Lyricly gets you any song in the world from any language by singing any line of the song lyrics.',
