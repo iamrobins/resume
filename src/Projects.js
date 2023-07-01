@@ -40,7 +40,7 @@ const productsList = [
     github: "https://github.com/dogefiles",
     url: "https://dogefiles.io",
     image:
-      'https://www.dogefiles.io/static/images/dashboard_light.webp'
+      'https://www.dogefiles.io/_next/image?url=%2Fimages%2Fdashboard_dark.png&w=1920&q=75'
   },
   {
     id: 2,
